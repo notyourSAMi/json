@@ -1,0 +1,10 @@
+{
+    "product" :
+        [
+            {"name":"Fan" , "Price":"1500" , "image" : "/OIP.jpg"},
+            {"name":"Bulb" , "Price":"1000" , "image" : "/R (1).jpg"},
+            {"name":"LCD" , "Price":"800" , "image" : "/R.jpg"}
+
+        ]
+    
+}
